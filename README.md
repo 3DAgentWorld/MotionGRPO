@@ -21,7 +21,7 @@
 
 - **[2026-07]** 🎉 MotionGRPO has been accepted to **ICML 2026**!
 - **[2026-05]** 📄 Preprint available on [arXiv](https://arxiv.org/abs/2605.05680).
-- **🔜 [2026-07]** We are actively extending this work to **hand motion recovery**. The enhanced codebase and the extended preprint will be released in **October 2025**. Stay tuned!
+- **🔜 [2026-07]** We are actively extending this work to **hand motion recovery**. The enhanced codebase and the extended preprint will be released in **October 2026**. Stay tuned!
 
 ---
 
